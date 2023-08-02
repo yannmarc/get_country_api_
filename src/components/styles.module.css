@@ -1,0 +1,8 @@
+
+.dropdown {
+    @apply block absolute top-full left-0 w-full shadow translate-y-3 bg-white
+}
+
+.dropdown-hidden {
+    display: none;
+}
